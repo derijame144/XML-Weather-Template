@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animation.cs" />
     <Compile Include="CurrentScreen.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -102,6 +103,177 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Rain3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_8.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_10.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_13.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_14.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_15.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_17.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_18.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_19.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_20.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_22.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_23.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_25.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_26.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_27.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_28.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_30.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_31.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_33.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_34.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_35.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_36.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_37.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_38.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_39.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_40.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_41.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_42.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_43.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_44.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_45.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_46.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_47.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_48.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_49.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_50.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drizzle1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\storm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rain.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drizzle.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
